@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo "##############################################"
-echo "PLZ SUBSCRIBE MY CHANNEL Technomodifier "
+echo "PLZ SUBSCRIBE MY CHANNEL TechnoModifier "
 echo "##############################################"
 
 echo "WAIT UNTIL INSTALLING............" 
@@ -67,7 +67,7 @@ rm $HOME/4.16.16.tar.gz
 echo "###############################################"
 echo "###############################################"
 echo "###############################"
-echo " more info to contact https://www.facebook.com/Aijaj5282ansari/    "
+echo " more info to contact https://www.facebook.com/@Aijaj5282ansari/    "
 echo "###############################"
 echo "####################################"
 echo " NOW YOU CAN LAUNCH METASPLOIT BY JUST EXECUTE THE COMMAND :=> msfconsole"
